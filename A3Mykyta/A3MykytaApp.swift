@@ -1,9 +1,5 @@
-//
-//  A3MykytaApp.swift
-//  A3Mykyta
-//
-//  Created by Mykyta Kaisenberg on 2025-04-01.
-//
+// 991701116
+// Mykyta Varnikov
 
 import SwiftUI
 
